@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on electronics design.
 - 🤔 I’m looking for help with optimal electronics design.
 - 💬 Ask me about embedded systems and PCB design.
-- 📫 How to reach me: Twitter [https://twitter.com/KagunyiKagwe]
+- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/peter-kagwe-kagunyi/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love card games, more specifically poker.
 
