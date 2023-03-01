@@ -1,5 +1,5 @@
-### Hi there 👋
-## I am Kagwe Kagunyi
+## Hi there 👋
+### I am Kagwe Kagunyi
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning PCB design using KiCad.
