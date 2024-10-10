@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I am Kagwe Kagunyi
 
-- 🔭 I’m currently working on my portfolio.
-- 🌱 I’m currently learning PCB design using KiCad.
+- 🔭 I’m working on my portfolio.
+- 🌱 I’m practicing PCB design using KiCad, EasyEDA, & FluxAI.
 - 👯 I’m looking to collaborate on electronics design and embedded systems.
 - 🤔 I’m looking for help with optimal electronics design.
 - 💬 Ask me about embedded systems and PCB design.
